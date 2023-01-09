@@ -15,7 +15,7 @@ export function Header() {
         <img src={avatarUrl} alt={user.name} />
 
         <div>
-          <span>Bem-Vinda,</span>
+          <span>Bem-Vindo(a),</span>
           <strong>{user.name}</strong>
         </div>
       </Profile>
