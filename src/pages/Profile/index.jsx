@@ -32,7 +32,7 @@ export function Profile() {
     navigate(-1);
   }
 
-  async function handleUpdate() {GIT INI
+  async function handleUpdate() {
     const updated = {
       name,
       email,
